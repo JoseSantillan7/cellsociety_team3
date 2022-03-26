@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simulation="WaTor">
+  <simulationType>WaTor</simulationType>
+  <title>WaTor: no fish or sharks</title>
+  <author>Cynthia France</author>
+  <description>a lifeless ocean. No fish or sharks</description>
+  <width>5</width>
+  <height>5</height>
+  <config>
+    00000.
+    00000.
+    00000.
+    00000.
+    00000
+  </config>
+  <speed>1.0</speed>
+  <neighborType>finite</neighborType>
+  <turnsToBreedFish>2</turnsToBreedFish>
+  <turnsToBreedShark>5</turnsToBreedShark>
+  <sharkStarve>4</sharkStarve>
+</data>

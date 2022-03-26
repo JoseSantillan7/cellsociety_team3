@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simulation="WaTor">
+  <simulationType>WaTor</simulationType>
+  <title>WaTor: only sharks</title>
+  <author>Cynthia France</author>
+  <description>there are only sharks. they all die</description>
+  <width>5</width>
+  <height>5</height>
+  <config>
+    02020.
+    00000.
+    20202.
+    00000.
+    02020
+  </config>
+  <speed>1.0</speed>
+  <neighborType>finite</neighborType>
+  <turnsToBreedFish>2</turnsToBreedFish>
+  <turnsToBreedShark>5</turnsToBreedShark>
+  <sharkStarve>4</sharkStarve>
+</data>

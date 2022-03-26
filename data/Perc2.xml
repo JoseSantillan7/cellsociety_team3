@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data simulation="Percolation">
+  <simulationType>Percolation</simulationType>
+  <title>Percolation: Example 2</title>
+  <author>Cynthia France</author>
+  <description>A basin, does not percolate</description>
+  <width>4</width>
+  <height>4</height>
+  <config>
+    0110.
+    0110.
+    0010.
+    0000
+  </config>
+  <speed>1.0</speed>
+  <neighborType>finite</neighborType>
+</data>
